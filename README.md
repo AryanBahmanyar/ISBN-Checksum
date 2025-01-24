@@ -1,4 +1,4 @@
-# isbn-checksum
+# ISBN Checksum
 A command-line program that validates an ISBN (International Standard Book Number) based on its check digit (last digit), or calculates and prints the check digit if it's omitted. An ISBN is a unique 10-digit or 13-digit number that is assigned to each publication, including separate editions of the same book, for identifying them in databases. ISBN-13 is the newer standard and always starts with the digits 978. The last digit in both ISBN-10 and ISBN-13 is the check digit which validates the ISBN based on a formula utilizing the other digits.
 
 ## Calculating ISBN-10 check digit
